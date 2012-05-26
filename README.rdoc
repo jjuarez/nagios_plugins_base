@@ -1,6 +1,6 @@
-= nagios_core
+= nagios_plugins_base
 
-Description goes here.
+This is my opinionated proposal for a nagios lightweight plugin development in ruby
 
 == Contributing
  
