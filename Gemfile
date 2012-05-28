@@ -2,7 +2,9 @@
 
 source :rubygems
 
+
 gem "choice"
+gem "popen4"
 
 
 group :development do
