@@ -1,6 +1,6 @@
-# vim:ruby
+# vim:ft=ruby
 
-source :rubygems
+source "https://rubygems.org"
 
 
 gem "choice"
