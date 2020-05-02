@@ -8,10 +8,9 @@ gem "popen4"
 
 
 group :development do
-  
   gem "bundler"
   gem "shoulda"
   gem "jeweler"
-  gem "rdoc"
-  gem "rake"
+  gem "rdoc", "~>3.12.1"
+  gem "rake", "~>12.3.3"
 end
